@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mozammil612
-- 👀 I’m interested in Data Science, ML, Big data, AWS
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Data Science, Machine Learning, Deep Learning, Computer Vision, Big data, AWS
+- 🌱 I’m currently looking for Data Science jobs
 - 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me ...
 
